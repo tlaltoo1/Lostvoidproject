@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # mission statement
 we are gonna make some money and teach people how to live a big boi lifestyle
-
+## some tylpe of sub section ig
+### even more of a subsection
 
 
 
