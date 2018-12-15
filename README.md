@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Lost Void bitches!
 
-You can use the [editor on GitHub](https://github.com/tlaltoo1/Lostvoidproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Some type of mission statement bullshit here
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
