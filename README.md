@@ -4,6 +4,21 @@ Some type of mission statement bullshit here
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+# mission statement
+we are gonna make some money and teach people how to live a big boi lifestyle
+
+
+
+
+
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
